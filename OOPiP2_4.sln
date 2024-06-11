@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPiP2_4", "OOPiP2_4\OOPiP2_4.csproj", "{BB6CA4C3-55BC-4E5F-827C-5B7E04F7EB4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOOPiP2_4", "TestMyLib\TestOOPiP2_4.csproj", "{9B98C392-0B26-4B28-A63D-B9B43DF28434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6CA4C3-55BC-4E5F-827C-5B7E04F7EB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6CA4C3-55BC-4E5F-827C-5B7E04F7EB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6CA4C3-55BC-4E5F-827C-5B7E04F7EB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6CA4C3-55BC-4E5F-827C-5B7E04F7EB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B98C392-0B26-4B28-A63D-B9B43DF28434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B98C392-0B26-4B28-A63D-B9B43DF28434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B98C392-0B26-4B28-A63D-B9B43DF28434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B98C392-0B26-4B28-A63D-B9B43DF28434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A805CD54-0B0F-418C-AA2A-4C5963FC2F75}
+	EndGlobalSection
+EndGlobal

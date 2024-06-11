@@ -1,0 +1,14 @@
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.csproj.AssemblyReference.cache
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\MainWindow.g.cs
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\App.g.cs
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4_MarkupCompile.cache
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\MainWindow.baml
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.g.resources
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.Properties.Resources.resources
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.csproj.GenerateResource.cache
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.csproj.CoreCompileInputs.cache
+G:\2 курс\OOPiP2_4\OOPiP2_4\bin\Debug\OOPiP2_4.exe.config
+G:\2 курс\OOPiP2_4\OOPiP2_4\bin\Debug\OOPiP2_4.exe
+G:\2 курс\OOPiP2_4\OOPiP2_4\bin\Debug\OOPiP2_4.pdb
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.exe
+G:\2 курс\OOPiP2_4\OOPiP2_4\obj\Debug\OOPiP2_4.pdb
